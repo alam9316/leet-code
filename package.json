@@ -1,0 +1,19 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "working solutions to leetcode problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alam9316/leet-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alam9316/leet-code/issues"
+  },
+  "homepage": "https://github.com/alam9316/leet-code#readme"
+}
