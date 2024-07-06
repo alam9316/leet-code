@@ -7,6 +7,7 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 LeetCode is a platform for preparing technical coding interviews and improving coding skills through practice. The problems cover a wide range of topics including algorithms, data structures, and more.
 
 ### File Structure
+```bash
 📦 LeetCode-Solutions
  ┣ 📂 Easy
  ┃  ┗ 📜 1_two_sum.js
@@ -21,6 +22,7 @@ LeetCode is a platform for preparing technical coding interviews and improving c
  ┃  ┗ 📜 25_reverse_nodes_in_k_group.js
  ┃  ┗ ...
  ┗ 📜 README.md
+ ```
 
 ### Features
 - **Language Used**: Javascript.
