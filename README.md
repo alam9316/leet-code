@@ -1,4 +1,4 @@
-# leet-code
+# My LeetCode Solutions
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems. Each solution is implemented in Javascript and organized by problem number for easy reference.
 
@@ -23,11 +23,11 @@ LeetCode is a platform for preparing technical coding interviews and improving c
  ┗ 📜 README.md
 
 ### Features
-- Language Used: Javascript.
-- Clear Structure: Problems categorized by difficulty (Easy, Medium, Hard).
-- Documentation: Each solution includes a brief problem statement and explanation of the approach taken.
-- Optimized Solutions: Emphasis on efficient algorithms and optimal solutions.
-- Continuous Updates: Regular updates with new solutions and improvements.
+- **Language Used**: Javascript.
+- **Clear Structure**: Problems categorized by difficulty (Easy, Medium, Hard).
+- **Documentation**: Each solution includes a brief problem statement and explanation of the approach taken.
+- **Optimized Solutions**: Emphasis on efficient algorithms and optimal solutions.
+- **Continuous Updates**: Regular updates with new solutions and improvements.
 
 ### Contributing
 Contributions are welcome! If you have a better solution or an improvement, feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
