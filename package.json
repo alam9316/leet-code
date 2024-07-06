@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alam9316/leet-code/issues"
   },
-  "homepage": "https://github.com/alam9316/leet-code#readme"
+  "homepage": "https://github.com/alam9316/leet-code#readme",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
 }
